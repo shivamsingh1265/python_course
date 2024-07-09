@@ -3,3 +3,5 @@ print(thisset)
 
 #duplicate vaue are ignored
 thisset = {"apple", "banana","cherry","apple"}
+
+print("hello world")
