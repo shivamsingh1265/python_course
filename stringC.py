@@ -30,3 +30,5 @@ print(str)
 #string.replace(old,new)  [ replace all occurence of old]
 str = "i am study python from apna college"
 print(str.replace("o"," a"))
+
+
